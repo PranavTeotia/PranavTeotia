@@ -37,17 +37,24 @@ SDE Intern — Icertis (Onsite)
 Present
 
 🤖 Working on AI-driven automation workflows within the Vera AI ecosystem for contract intelligence
+
 ⚙️ Designed and integrated intelligent agents to automate contract creation, data extraction, and validation
+
 🧠 Applied machine learning + rule-based automation to improve workflow efficiency and accuracy
+
 🔗 Built scalable API-driven microservices and collaborated closely with product & engineering teams
+
 ☁️ Worked with cloud infrastructure to deploy reliable, enterprise-grade AI solutions
 
 AI/ML Virtual Intern — AICTE (EduSkills)
 Jul 2024 – Sep 2024
 
 📊 Hands-on experience with Machine Learning & Deep Learning concepts and real-world use cases
+
 🧪 Worked on data preprocessing, model training, tuning, and evaluation using Python
+
 📈 Implemented supervised & unsupervised learning models as part of guided industry modules
+
 🚀 Gained exposure to end-to-end ML workflows, from data to deployment mindset
 
 ## 🛠️ Tech Stack
